@@ -2,7 +2,7 @@
   "name": "node-esencial",
   "version": "1.0.0",
   "description": "",
-  "main": "01-hola mundo node/app.js",
+  "main": "01-hola_mundo_node/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
